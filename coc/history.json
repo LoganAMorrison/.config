@@ -1,0 +1,24 @@
+{
+  "explorerActions": {
+    "%2FUsers%2Floganmorrison%2FDocuments%2Fta_classes%2Fphys_115%2Fpsets%2Fpset5": [
+      "addFile"
+    ]
+  },
+  "extensions": {
+    "%2FUsers%2Floganmorrison%2F": {
+      "config%2Fnvim": [
+        ":q"
+      ]
+    }
+  },
+  "lists": {
+    "%2FUsers%2Floganmorrison%2FLibrary%2FMathematica%2FApplications%2FHazmaTools%2FModels": [
+      "ma"
+    ]
+  },
+  "explorerFiles": {
+    "%2FUsers%2Floganmorrison%2FDocuments%2Fresearch%2FDarkSun%2Fcode": [
+      "fd"
+    ]
+  }
+}

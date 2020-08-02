@@ -1,0 +1,6 @@
+explorer
+clangd.install
+clangd.update
+python.startREPL
+python.setInterpreter
+python.setLinter

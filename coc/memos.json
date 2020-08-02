@@ -1,0 +1,3542 @@
+{
+  "coc-python|/Users/loganmorrison/Documents/git_hub/Haliax": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:62833ac344b0014960e4a8f28c527b16": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:62833ac344b0014960e4a8f28c527b16": [],
+    "SelectedPythonPath": "/Users/loganmorrison/.pyenv/shims/python3.8"
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "55d1e13184e54da406989a11e499fcb95768d4f943c3e27ffd2cec7611f919412fd07a69d9f6a1f78a65a8db48e16cf9d73ade5743b63178ce9a38c3b446a453"
+      },
+      "expiry": 1596056378825
+    },
+    "/Users/loganmorrison/.local/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48445825500633d2c86d1c913c3028f815f4d8f8d20060805165d5c5a7af581729d311389dea6036d02a659633ac02a2a48bc5cfacc3c3e4324f93f59ceb0af4"
+      },
+      "expiry": 1596056378632
+    },
+    "/usr/local/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.17-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 17,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.17-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "bdae7a42d1b2a8e2030c1750323a8b5490febe3d46c440ef3bc53250e0b0c000f95a3efa6f37d2e28eeba1ae78bbd0502a8107356ed4913eefa26fa60503aea1"
+      },
+      "expiry": 1590268849315
+    },
+    "/usr/local/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.17-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 17,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.17-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "71038f04b8cf9a67e2051d254c8d30ead20b65e0f7e4c971a63f4539a5e4fec9bbd9c565ca97e92013378702a4a1ee31dca785daf84fa1158a3af527fe9f7908"
+      },
+      "expiry": 1590268849319
+    },
+    "/usr/local/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.17-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 17,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.17-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b26ce7635d10a37f027b74915b2e9312a8241fc281f8511f44c76ce5959921cd368d1311e1cdac8829d107f5b1f8c52199ba1931f573d8b56478924c43fd9e92"
+      },
+      "expiry": 1590268849312
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "32155ca5edb3a60357185ab7b7d3b4191e4c6856fd20c2a65b74845f4a588ed4f9a8dd461fdbe2e0f26b75105be8d430fda6a3b7344172f0733bbb9d1ab175f1"
+      },
+      "expiry": 1596056378828
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "eac0471206fec8e0c2b021ae1be130351d8b761fc45854675dfb732719e562accf0b4c482a9e9ccb14305a3a4d525a5e3a2696c558a01754c16937d1704465d4"
+      },
+      "expiry": 1596056378831
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.2-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.2",
+        "fileHash": "d4d49445ec6c23c8b28d7ae651864f225bf5df5e4941882ba4becb167eb1a5e6cb4911464698c448cc651a707ef4c45931bd7fed74c3f9ac8bd66d30efadf5e5"
+      },
+      "expiry": 1596056378852
+    },
+    "/Users/loganmorrison/.pyenv/shims/python3.6.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/shims/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.2-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.2",
+        "fileHash": "70bd1c6ede207447178bdf1d0c38f3b8968181040d442b762c1e76d6ca35bab0a4440b496c4e44000e066ee59d4c5bd105850c80e3dd2b93a7376cca565f41c4"
+      },
+      "expiry": 1594091702990
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.16",
+        "fileHash": "9df0d79066fcabf847c91152c77d29b1d5480ee83b6819777302cd259902f5c6b76f1e49012f7842aac7b2479c305ee8f0fc5f35d7d998bba1a9ce3bed9e4fe4"
+      },
+      "expiry": 1596056378865
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.16",
+        "fileHash": "d7e9c45d768aeb090655bac06593a4b06c4eb5d45e08ff25016fb494351d2be7404f1a2e792181f52ffce43d1cb5fe3ee01458a5192ccae9f8fe8fd92ff2f5e0"
+      },
+      "expiry": 1596056378866
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python3.6.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.2-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.2",
+        "fileHash": "52e9c87e19b946e0bdd581220f67a7d9fe402e0833731890a6e71e6f7641d7d6598ff2eb28ecf0e9b2e5e133af94ea9aa7faad3355f4cd87ace9c3a9d6965e70"
+      },
+      "expiry": 1596056378850
+    },
+    "/Users/loganmorrison/.pyenv/shims/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "438d69ae506e70445643de9195784ef80888f66c5befcd2e99857a2c9f641f96d63dbf8dd734aaa330076752a32332e495f7619c10e821feb66a9631ad0191c3"
+      },
+      "expiry": 1596056378628
+    },
+    "/Users/loganmorrison/.pyenv/shims/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "0164e72fdd56dc01523142940a34cad5908cb0d53e1fe68069c8643b32d382765e71f09a53e2f2ef4f03114a147ecade3de4ab209c1f0b3c4ab9bb2cebc301f5"
+      },
+      "expiry": 1596056378640
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.16",
+        "fileHash": "b5af56cd5dd84d42d851840cc645375e51a35926cb44058e286569a727196e0d34e385a8ac611b4aada1b526a4eb9771d09e391aa7864d3b9de2001729629309"
+      },
+      "expiry": 1596056378867
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.2-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.2",
+        "fileHash": "a72ace208d424d516a7e43b6d19011ce347fdd13be2f3444022b6e57123a65b57e57c9ca2a28fb2eabaf5e85f01fe412ea2721c7e3cee653a203359786e2ed43"
+      },
+      "expiry": 1596056378853
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.6-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.6-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.5-dev",
+        "fileHash": "44d059386a7029452715e51cae4f638eb5696e6c1daf5263cb6da7340bfe11d3760173b95627833efd0c07200ad8a7563cd1ade7fe3cbfc07bc69b75b4086cf8"
+      },
+      "expiry": 1596056378863
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.6-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.6-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.5-dev",
+        "fileHash": "7e85ed6f400509ad99f960618c37d6419cc62017b4f3f4d4b1bd46a2fae186459b84c33bf4457cd72c63c6596a7e05e9cb2733ed22005a35979c67f72bdc7530"
+      },
+      "expiry": 1596056378862
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python3.5.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python3.5",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.6-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.6-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.5-dev",
+        "fileHash": "2f10af65e07d19ea92241ca1b1959827fd9f5b04ba784bfeb6891d73154ebebe7121529b3981c0698b315170e70d89a3c58e05ad28ab66e9f6fa551711644a87"
+      },
+      "expiry": 1596056378860
+    },
+    "/opt/local/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/opt/local/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "85bf6703d2467151d44f17ab4c00be3646f5ca461b3b6da60dfff14ae3b878506b627220c64a7148a782085cf95cc74b78a4346fdd2964c2c63d5493afabb0f5"
+      },
+      "expiry": 1590268849303
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "f873832d7d52851939db50b6734bbd4080b28116513e3608c1ac4d18b0b23cee77b83582864f9a318f4517b2951591673be8e0c93276148435c0c054d820a3b5"
+      },
+      "expiry": 1596056379473
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.13-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.13-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.13/Python.framework/Versions/2.7",
+        "fileHash": "e138474c6f9b754b74f893ad8c541cef0133175b3355261e153d0c68c256621107e3838666ff8ad81620c72ce726553d99f7609e74e5eab130c99410e441d775"
+      },
+      "expiry": 1596056378870
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.13-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.13-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.13/Python.framework/Versions/2.7",
+        "fileHash": "8caffcfdebed9613f8f1870b8e54dc46e82a65dd511c7bbc0b73da6ef683cb7fb355b36c7b94393e6d27cb9e997839d8c18b080d1d5e00a1ea9643e0606cd603"
+      },
+      "expiry": 1596056378871
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.13-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.13-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.13/Python.framework/Versions/2.7",
+        "fileHash": "b557e589bdba2bbfc409fbc01150e752ee7fee923dec677ef3b897f30a500d529714be167435300dd152fc32f697322c4ba34b4c7f277f8ea7cb32ad4520e927"
+      },
+      "expiry": 1596056378868
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48445825500633d2c86d1c913c3028f815f4d8f8d20060805165d5c5a7af581729d311389dea6036d02a659633ac02a2a48bc5cfacc3c3e4324f93f59ceb0af4",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "813837c3ae0a7045d36ba04f2dab4842c199ef65e3ffeba57df1e621783d81f52e89f0f661a498b572446130d0365b8d0877b5f8e0a860cae4da7bb17054fc53",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "e8b4cb1c85a54fa4183c5872b8e3fc7a17719ba0cc28db7627166a8adf1216feb8f3e467792681249a900116f0351a8d7e37339a058da0866fab9ec8cb99e67e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "438d69ae506e70445643de9195784ef80888f66c5befcd2e99857a2c9f641f96d63dbf8dd734aaa330076752a32332e495f7619c10e821feb66a9631ad0191c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "0164e72fdd56dc01523142940a34cad5908cb0d53e1fe68069c8643b32d382765e71f09a53e2f2ef4f03114a147ecade3de4ab209c1f0b3c4ab9bb2cebc301f5",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "49d75449c3e7d59880ee5dd4f88cd269bee008653979e0f231787e14b2f9ea80e951ef2e4e1080c0181a0ab1743127fb83e4b93a216bc4a9a80520faf14d7310",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "813837c3ae0a7045d36ba04f2dab4842c199ef65e3ffeba57df1e621783d81f52e89f0f661a498b572446130d0365b8d0877b5f8e0a860cae4da7bb17054fc53",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "e8b4cb1c85a54fa4183c5872b8e3fc7a17719ba0cc28db7627166a8adf1216feb8f3e467792681249a900116f0351a8d7e37339a058da0866fab9ec8cb99e67e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "eac0471206fec8e0c2b021ae1be130351d8b761fc45854675dfb732719e562accf0b4c482a9e9ccb14305a3a4d525a5e3a2696c558a01754c16937d1704465d4",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "32155ca5edb3a60357185ab7b7d3b4191e4c6856fd20c2a65b74845f4a588ed4f9a8dd461fdbe2e0f26b75105be8d430fda6a3b7344172f0733bbb9d1ab175f1",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "55d1e13184e54da406989a11e499fcb95768d4f943c3e27ffd2cec7611f919412fd07a69d9f6a1f78a65a8db48e16cf9d73ade5743b63178ce9a38c3b446a453",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "f873832d7d52851939db50b6734bbd4080b28116513e3608c1ac4d18b0b23cee77b83582864f9a318f4517b2951591673be8e0c93276148435c0c054d820a3b5",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "813837c3ae0a7045d36ba04f2dab4842c199ef65e3ffeba57df1e621783d81f52e89f0f661a498b572446130d0365b8d0877b5f8e0a860cae4da7bb17054fc53",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "e8b4cb1c85a54fa4183c5872b8e3fc7a17719ba0cc28db7627166a8adf1216feb8f3e467792681249a900116f0351a8d7e37339a058da0866fab9ec8cb99e67e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "eac0471206fec8e0c2b021ae1be130351d8b761fc45854675dfb732719e562accf0b4c482a9e9ccb14305a3a4d525a5e3a2696c558a01754c16937d1704465d4",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "32155ca5edb3a60357185ab7b7d3b4191e4c6856fd20c2a65b74845f4a588ed4f9a8dd461fdbe2e0f26b75105be8d430fda6a3b7344172f0733bbb9d1ab175f1",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "55d1e13184e54da406989a11e499fcb95768d4f943c3e27ffd2cec7611f919412fd07a69d9f6a1f78a65a8db48e16cf9d73ade5743b63178ce9a38c3b446a453",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "f873832d7d52851939db50b6734bbd4080b28116513e3608c1ac4d18b0b23cee77b83582864f9a318f4517b2951591673be8e0c93276148435c0c054d820a3b5",
+        "type": "Unknown"
+      }
+    ],
+    "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.8-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.8-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6-dev",
+        "fileHash": "6f0b0cc5a944d0e6a9e36feddc8d0b90b28d6cd9fef0f2a00ea5ff7cb6149e81d9cb77a6c7139169071626336d2f0cb02c3ec75c49825461d0f713d8d87591c4"
+      },
+      "expiry": 1596056378859
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.8-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.8-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6-dev",
+        "fileHash": "17d353ea6f8ca6858af8c4833d2c783b2987b89207f9020adc664ceeaeaa73aa575856cf22be675151543954d2077684313cad54d836ad7a9c1935a98bec28b8"
+      },
+      "expiry": 1596056378857
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python3.6.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.8-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.8-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6-dev",
+        "fileHash": "5a18b5092ca0c9f449d8edc4f61d5dde8f436103e1eae5dc19f6773a3b531fdcb46734651bfa371f47c1522a7010c05775cd6d1e48f8e29fe46b19f27efb1a77"
+      },
+      "expiry": 1596056378855
+    },
+    "/Users/loganmorrison/.julia/conda/3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.julia/conda/3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.julia/conda/3",
+        "fileHash": "fbef076a470516f11bbe7ff4508c8abb17c5038a8f365d689d3b8581f00e53c564ec79a9cc07cba439cf07cd4a1082ab70b1ae80cefb5b39aca2bef4b2267eb7"
+      },
+      "expiry": 1596056378873
+    },
+    "CONDA_ENVIRONMENTS": {},
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.julia/conda/3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.julia/conda/3",
+        "fileHash": "fbef076a470516f11bbe7ff4508c8abb17c5038a8f365d689d3b8581f00e53c564ec79a9cc07cba439cf07cd4a1082ab70b1ae80cefb5b39aca2bef4b2267eb7",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/loganmorrison/.julia/conda/3",
+        "envName": "3"
+      }
+    ],
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "6bce13e10b428b1ce89b804ffbc8512abbbaac0f840ba1725626192374c22f948c8de5d856a4c66447b6b27c4b7d0055832a8182f302b04b2a31a7a3f260fd8c"
+      },
+      "expiry": 1596056378898
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.2-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.7.2",
+        "fileHash": "cfb937d559eead2298317fa3808c4f561cf8b8070df7e67db381c0450b766d72962f68fb071653a1d725801d6ac20e04983fe2901ee28e6fa7d16c4b6e820191"
+      },
+      "expiry": 1596056378890
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.2-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.7.2",
+        "fileHash": "0974d97d028623d49f75041ba4422a803b64977a5af8c834aaaf2c964e80c4c73f2b63b492e5774b678357bb17daaa4d41763e57c4de4f1252ee5190da760dcc"
+      },
+      "expiry": 1596056378888
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.2-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.7.2",
+        "fileHash": "9bdfae9dd1aa5ffbd3a108d3fb5443deee703ecb0d63bc916a3629af05b20825cea108567ca386e15e1ea815ca89583a60c007a0bf36e43ccba4cdd173eeef12"
+      },
+      "expiry": 1596056378887
+    },
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.13-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.13-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.13/Python.framework/Versions/2.7",
+        "fileHash": "8caffcfdebed9613f8f1870b8e54dc46e82a65dd511c7bbc0b73da6ef683cb7fb355b36c7b94393e6d27cb9e997839d8c18b080d1d5e00a1ea9643e0606cd603",
+        "envName": "2.7.13",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.13-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.13-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.13/Python.framework/Versions/2.7",
+        "fileHash": "e138474c6f9b754b74f893ad8c541cef0133175b3355261e153d0c68c256621107e3838666ff8ad81620c72ce726553d99f7609e74e5eab130c99410e441d775",
+        "envName": "2.7.13",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.13-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.13-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.13/Python.framework/Versions/2.7",
+        "fileHash": "b557e589bdba2bbfc409fbc01150e752ee7fee923dec677ef3b897f30a500d529714be167435300dd152fc32f697322c4ba34b4c7f277f8ea7cb32ad4520e927",
+        "envName": "2.7.13",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.16",
+        "fileHash": "b5af56cd5dd84d42d851840cc645375e51a35926cb44058e286569a727196e0d34e385a8ac611b4aada1b526a4eb9771d09e391aa7864d3b9de2001729629309",
+        "envName": "2.7.16",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.16",
+        "fileHash": "d7e9c45d768aeb090655bac06593a4b06c4eb5d45e08ff25016fb494351d2be7404f1a2e792181f52ffce43d1cb5fe3ee01458a5192ccae9f8fe8fd92ff2f5e0",
+        "envName": "2.7.16",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.16",
+        "fileHash": "9df0d79066fcabf847c91152c77d29b1d5480ee83b6819777302cd259902f5c6b76f1e49012f7842aac7b2479c305ee8f0fc5f35d7d998bba1a9ce3bed9e4fe4",
+        "envName": "2.7.16",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.6-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.6-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.5-dev",
+        "fileHash": "44d059386a7029452715e51cae4f638eb5696e6c1daf5263cb6da7340bfe11d3760173b95627833efd0c07200ad8a7563cd1ade7fe3cbfc07bc69b75b4086cf8",
+        "envName": "3.5-dev",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.6-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.6-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.5-dev",
+        "fileHash": "7e85ed6f400509ad99f960618c37d6419cc62017b4f3f4d4b1bd46a2fae186459b84c33bf4457cd72c63c6596a7e05e9cb2733ed22005a35979c67f72bdc7530",
+        "envName": "3.5-dev",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python3.5",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.6-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.6-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.5-dev",
+        "fileHash": "2f10af65e07d19ea92241ca1b1959827fd9f5b04ba784bfeb6891d73154ebebe7121529b3981c0698b315170e70d89a3c58e05ad28ab66e9f6fa551711644a87",
+        "envName": "3.5-dev",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.8-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.8-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6-dev",
+        "fileHash": "6f0b0cc5a944d0e6a9e36feddc8d0b90b28d6cd9fef0f2a00ea5ff7cb6149e81d9cb77a6c7139169071626336d2f0cb02c3ec75c49825461d0f713d8d87591c4",
+        "envName": "3.6-dev",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.8-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.8-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6-dev",
+        "fileHash": "17d353ea6f8ca6858af8c4833d2c783b2987b89207f9020adc664ceeaeaa73aa575856cf22be675151543954d2077684313cad54d836ad7a9c1935a98bec28b8",
+        "envName": "3.6-dev",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.8-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.8-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6-dev",
+        "fileHash": "5a18b5092ca0c9f449d8edc4f61d5dde8f436103e1eae5dc19f6773a3b531fdcb46734651bfa371f47c1522a7010c05775cd6d1e48f8e29fe46b19f27efb1a77",
+        "envName": "3.6-dev",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.2-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.2",
+        "fileHash": "a72ace208d424d516a7e43b6d19011ce347fdd13be2f3444022b6e57123a65b57e57c9ca2a28fb2eabaf5e85f01fe412ea2721c7e3cee653a203359786e2ed43",
+        "envName": "3.6.2",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.2-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.2",
+        "fileHash": "d4d49445ec6c23c8b28d7ae651864f225bf5df5e4941882ba4becb167eb1a5e6cb4911464698c448cc651a707ef4c45931bd7fed74c3f9ac8bd66d30efadf5e5",
+        "envName": "3.6.2",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.2-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.2",
+        "fileHash": "52e9c87e19b946e0bdd581220f67a7d9fe402e0833731890a6e71e6f7641d7d6598ff2eb28ecf0e9b2e5e133af94ea9aa7faad3355f4cd87ace9c3a9d6965e70",
+        "envName": "3.6.2",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.9",
+        "fileHash": "e10f0887fee0896fe45d1de8029ba751b5e3698749c316dbf7a150261ba8892d1163ad625ca5b85e3478e64880125c4600cc40a76c0a8875f3a41906a59edb30",
+        "envName": "3.6.9",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.9",
+        "fileHash": "6394ed836f2571b2d5a65f10ba1256b083d8b4eaf1952197796ad42da5abb904075b6daa873083ae212160e4787f9331f24586bb72fb2b3c4143b8a88ecac9ed",
+        "envName": "3.6.9",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.9",
+        "fileHash": "167021cc1f841533a66b93b25e2a67fc485a575aa55f172bac1e6b1c80d76cfb96aeb0f1629a1cde7e2672d7b6ee700cabd0f047f87cea39e1a8b3987194d90e",
+        "envName": "3.6.9",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.2-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.7.2",
+        "fileHash": "9bdfae9dd1aa5ffbd3a108d3fb5443deee703ecb0d63bc916a3629af05b20825cea108567ca386e15e1ea815ca89583a60c007a0bf36e43ccba4cdd173eeef12",
+        "envName": "3.7.2",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.2-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.7.2",
+        "fileHash": "0974d97d028623d49f75041ba4422a803b64977a5af8c834aaaf2c964e80c4c73f2b63b492e5774b678357bb17daaa4d41763e57c4de4f1252ee5190da760dcc",
+        "envName": "3.7.2",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.2-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.2-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.7.2",
+        "fileHash": "cfb937d559eead2298317fa3808c4f561cf8b8070df7e67db381c0450b766d72962f68fb071653a1d725801d6ac20e04983fe2901ee28e6fa7d16c4b6e820191",
+        "envName": "3.7.2",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+        "envName": "3.8.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "0b0d86d2ef7274443531747dad5439ac6b73b3d99298cd2739cacf7c3b3de655e51104a374e33aa76bafb46e8b3f07a8079a3087086de109e4a77fc5de72638f",
+        "envName": "3.8.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "4a7b50eac87513da1908f4cc5e94a32cd081b8b00b124ce7a7125d95b8d146072618939de1b910c4ece19f1e5cb5fb4d9e61020c4a6c1b08dad396aa2df9e7b8",
+        "envName": "3.8.0",
+        "type": "Pyenv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/local/opt/python@3.8/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "6bce13e10b428b1ce89b804ffbc8512abbbaac0f840ba1725626192374c22f948c8de5d856a4c66447b6b27c4b7d0055832a8182f302b04b2a31a7a3f260fd8c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.8/bin/python3.8",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.3-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.3-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+      "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa",
+      "type": "Unknown"
+    },
+    "PipEnvInformation": [],
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.8/bin/python3.8",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.3-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.3-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+      "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa",
+      "type": "Unknown",
+      "displayName": "Python 3.8.3 64-bit"
+    },
+    "/Users/loganmorrison/.julia/conda/3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.3 64-bit ('3': conda)",
+        "hash": "fbef076a470516f11bbe7ff4508c8abb17c5038a8f365d689d3b8581f00e53c564ec79a9cc07cba439cf07cd4a1082ab70b1ae80cefb5b39aca2bef4b2267eb7-2699aac36740216f028fad0b36677863"
+      },
+      "expiry": 1596056378985
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.13 64-bit ('2.7.13': pyenv)",
+        "hash": "8caffcfdebed9613f8f1870b8e54dc46e82a65dd511c7bbc0b73da6ef683cb7fb355b36c7b94393e6d27cb9e997839d8c18b080d1d5e00a1ea9643e0606cd603-b4b43fb050971e1f87000b8e396c5907"
+      },
+      "expiry": 1596056378996
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.5.6 64-bit ('3.5-dev': pyenv)",
+        "hash": "44d059386a7029452715e51cae4f638eb5696e6c1daf5263cb6da7340bfe11d3760173b95627833efd0c07200ad8a7563cd1ade7fe3cbfc07bc69b75b4086cf8-806bd5f400c848f5d265cc7035ccc7ea"
+      },
+      "expiry": 1596056378987
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit ('2.7.16': pyenv)",
+        "hash": "b5af56cd5dd84d42d851840cc645375e51a35926cb44058e286569a727196e0d34e385a8ac611b4aada1b526a4eb9771d09e391aa7864d3b9de2001729629309-738fe52b539425eb1fd3eec8c7f5ca14"
+      },
+      "expiry": 1596056378989
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.6.8 64-bit ('3.6-dev': pyenv)",
+        "hash": "6f0b0cc5a944d0e6a9e36feddc8d0b90b28d6cd9fef0f2a00ea5ff7cb6149e81d9cb77a6c7139169071626336d2f0cb02c3ec75c49825461d0f713d8d87591c4-469203a391d23f7a39477bb4056763bf"
+      },
+      "expiry": 1596056378994
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.6.2 64-bit ('3.6.2': pyenv)",
+        "hash": "a72ace208d424d516a7e43b6d19011ce347fdd13be2f3444022b6e57123a65b57e57c9ca2a28fb2eabaf5e85f01fe412ea2721c7e3cee653a203359786e2ed43-88a1f21810d0021901e5deb0ab516d98"
+      },
+      "expiry": 1596056378998
+    },
+    "/Users/loganmorrison/.local/bin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "48445825500633d2c86d1c913c3028f815f4d8f8d20060805165d5c5a7af581729d311389dea6036d02a659633ac02a2a48bc5cfacc3c3e4324f93f59ceb0af4-967991787c1e6e5490bb058a59cb0278"
+      },
+      "expiry": 1596063080147
+    },
+    "/opt/local/bin/python3.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.5 64-bit",
+        "hash": "85bf6703d2467151d44f17ab4c00be3646f5ca461b3b6da60dfff14ae3b878506b627220c64a7148a782085cf95cc74b78a4346fdd2964c2c63d5493afabb0f5-93444842a8676f8f7f8f35a43988df8a"
+      },
+      "expiry": 1589999192037
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.2 64-bit ('3.7.2': pyenv)",
+        "hash": "9bdfae9dd1aa5ffbd3a108d3fb5443deee703ecb0d63bc916a3629af05b20825cea108567ca386e15e1ea815ca89583a60c007a0bf36e43ccba4cdd173eeef12-6b64d031d3d2e0f27e71704b452cd840"
+      },
+      "expiry": 1596056379000
+    },
+    "/Users/loganmorrison/.pyenv/shims/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.0 64-bit",
+        "hash": "438d69ae506e70445643de9195784ef80888f66c5befcd2e99857a2c9f641f96d63dbf8dd734aaa330076752a32332e495f7619c10e821feb66a9631ad0191c3-a25bd83abf547dcec8da1aa864f9a157"
+      },
+      "expiry": 1596063080152
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "eac0471206fec8e0c2b021ae1be130351d8b761fc45854675dfb732719e562accf0b4c482a9e9ccb14305a3a4d525a5e3a2696c558a01754c16937d1704465d4-affabcd6e42fa4a070f38c52a7b1b891"
+      },
+      "expiry": 1596063080154
+    },
+    "/usr/local/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.17 64-bit",
+        "hash": "bdae7a42d1b2a8e2030c1750323a8b5490febe3d46c440ef3bc53250e0b0c000f95a3efa6f37d2e28eeba1ae78bbd0502a8107356ed4913eefa26fa60503aea1-db82cdd07275b32d0b8a527b752633a3"
+      },
+      "expiry": 1589999192042
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.3 64-bit",
+        "hash": "f873832d7d52851939db50b6734bbd4080b28116513e3608c1ac4d18b0b23cee77b83582864f9a318f4517b2951591673be8e0c93276148435c0c054d820a3b5-a35a956d8886b40523fa4fe18676590f"
+      },
+      "expiry": 1596063080158
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "6bce13e10b428b1ce89b804ffbc8512abbbaac0f840ba1725626192374c22f948c8de5d856a4c66447b6b27c4b7d0055832a8182f302b04b2a31a7a3f260fd8c-572a0baf404065713c16e99967ecc9f5"
+      },
+      "expiry": 1596056379014
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.8/bin/python3.8",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.3-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.3-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+      "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa",
+      "type": "Unknown",
+      "displayName": "Python 3.8.3 64-bit"
+    },
+    "/Users/loganmorrison/.julia/conda/3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fbef076a470516f11bbe7ff4508c8abb17c5038a8f365d689d3b8581f00e53c564ec79a9cc07cba439cf07cd4a1082ab70b1ae80cefb5b39aca2bef4b2267eb7",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.julia/conda/3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.3-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.3-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.julia/conda/3",
+          "fileHash": "fbef076a470516f11bbe7ff4508c8abb17c5038a8f365d689d3b8581f00e53c564ec79a9cc07cba439cf07cd4a1082ab70b1ae80cefb5b39aca2bef4b2267eb7",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/loganmorrison/.julia/conda/3",
+          "envName": "3",
+          "displayName": "Python 3.7.3 64-bit ('3': conda)"
+        }
+      },
+      "expiry": 1596056379046
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8caffcfdebed9613f8f1870b8e54dc46e82a65dd511c7bbc0b73da6ef683cb7fb355b36c7b94393e6d27cb9e997839d8c18b080d1d5e00a1ea9643e0606cd603",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/versions/2.7.13/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.13-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 13,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.13-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.13/Python.framework/Versions/2.7",
+          "fileHash": "8caffcfdebed9613f8f1870b8e54dc46e82a65dd511c7bbc0b73da6ef683cb7fb355b36c7b94393e6d27cb9e997839d8c18b080d1d5e00a1ea9643e0606cd603",
+          "envName": "2.7.13",
+          "type": "Pyenv",
+          "displayName": "Python 2.7.13 64-bit ('2.7.13': pyenv)"
+        }
+      },
+      "expiry": 1596056379067
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "44d059386a7029452715e51cae4f638eb5696e6c1daf5263cb6da7340bfe11d3760173b95627833efd0c07200ad8a7563cd1ade7fe3cbfc07bc69b75b4086cf8",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/versions/3.5-dev/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.5.6-final",
+            "major": 3,
+            "minor": 5,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.5.6-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.5-dev",
+          "fileHash": "44d059386a7029452715e51cae4f638eb5696e6c1daf5263cb6da7340bfe11d3760173b95627833efd0c07200ad8a7563cd1ade7fe3cbfc07bc69b75b4086cf8",
+          "envName": "3.5-dev",
+          "type": "Pyenv",
+          "displayName": "Python 3.5.6 64-bit ('3.5-dev': pyenv)"
+        }
+      },
+      "expiry": 1596056379055
+    },
+    "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b5af56cd5dd84d42d851840cc645375e51a35926cb44058e286569a727196e0d34e385a8ac611b4aada1b526a4eb9771d09e391aa7864d3b9de2001729629309",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/versions/2.7.16/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/2.7.16",
+          "fileHash": "b5af56cd5dd84d42d851840cc645375e51a35926cb44058e286569a727196e0d34e385a8ac611b4aada1b526a4eb9771d09e391aa7864d3b9de2001729629309",
+          "envName": "2.7.16",
+          "type": "Pyenv",
+          "displayName": "Python 2.7.16 64-bit ('2.7.16': pyenv)"
+        }
+      },
+      "expiry": 1596056379059
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6f0b0cc5a944d0e6a9e36feddc8d0b90b28d6cd9fef0f2a00ea5ff7cb6149e81d9cb77a6c7139169071626336d2f0cb02c3ec75c49825461d0f713d8d87591c4",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/versions/3.6-dev/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.6.8-final",
+            "major": 3,
+            "minor": 6,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.6.8-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6-dev",
+          "fileHash": "6f0b0cc5a944d0e6a9e36feddc8d0b90b28d6cd9fef0f2a00ea5ff7cb6149e81d9cb77a6c7139169071626336d2f0cb02c3ec75c49825461d0f713d8d87591c4",
+          "envName": "3.6-dev",
+          "type": "Pyenv",
+          "displayName": "Python 3.6.8 64-bit ('3.6-dev': pyenv)"
+        }
+      },
+      "expiry": 1596056379063
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a72ace208d424d516a7e43b6d19011ce347fdd13be2f3444022b6e57123a65b57e57c9ca2a28fb2eabaf5e85f01fe412ea2721c7e3cee653a203359786e2ed43",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/versions/3.6.2/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.6.2-final",
+            "major": 3,
+            "minor": 6,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.6.2-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.2",
+          "fileHash": "a72ace208d424d516a7e43b6d19011ce347fdd13be2f3444022b6e57123a65b57e57c9ca2a28fb2eabaf5e85f01fe412ea2721c7e3cee653a203359786e2ed43",
+          "envName": "3.6.2",
+          "type": "Pyenv",
+          "displayName": "Python 3.6.2 64-bit ('3.6.2': pyenv)"
+        }
+      },
+      "expiry": 1596056379072
+    },
+    "/Users/loganmorrison/.local/bin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "48445825500633d2c86d1c913c3028f815f4d8f8d20060805165d5c5a7af581729d311389dea6036d02a659633ac02a2a48bc5cfacc3c3e4324f93f59ceb0af4",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.local/bin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "48445825500633d2c86d1c913c3028f815f4d8f8d20060805165d5c5a7af581729d311389dea6036d02a659633ac02a2a48bc5cfacc3c3e4324f93f59ceb0af4",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1596063080195
+    },
+    "/opt/local/bin/python3.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "85bf6703d2467151d44f17ab4c00be3646f5ca461b3b6da60dfff14ae3b878506b627220c64a7148a782085cf95cc74b78a4346fdd2964c2c63d5493afabb0f5",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/local/bin/python3.7",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.5-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.5-final"
+          },
+          "sysPrefix": "/opt/local/Library/Frameworks/Python.framework/Versions/3.7",
+          "fileHash": "85bf6703d2467151d44f17ab4c00be3646f5ca461b3b6da60dfff14ae3b878506b627220c64a7148a782085cf95cc74b78a4346fdd2964c2c63d5493afabb0f5",
+          "type": "Unknown",
+          "displayName": "Python 3.7.5 64-bit"
+        }
+      },
+      "expiry": 1589999192175
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9bdfae9dd1aa5ffbd3a108d3fb5443deee703ecb0d63bc916a3629af05b20825cea108567ca386e15e1ea815ca89583a60c007a0bf36e43ccba4cdd173eeef12",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/versions/3.7.2/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.2-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.2-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.7.2",
+          "fileHash": "9bdfae9dd1aa5ffbd3a108d3fb5443deee703ecb0d63bc916a3629af05b20825cea108567ca386e15e1ea815ca89583a60c007a0bf36e43ccba4cdd173eeef12",
+          "envName": "3.7.2",
+          "type": "Pyenv",
+          "displayName": "Python 3.7.2 64-bit ('3.7.2': pyenv)"
+        }
+      },
+      "expiry": 1596056379076
+    },
+    "/Users/loganmorrison/.pyenv/shims/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "438d69ae506e70445643de9195784ef80888f66c5befcd2e99857a2c9f641f96d63dbf8dd734aaa330076752a32332e495f7619c10e821feb66a9631ad0191c3",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/shims/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.0-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.0-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+          "fileHash": "438d69ae506e70445643de9195784ef80888f66c5befcd2e99857a2c9f641f96d63dbf8dd734aaa330076752a32332e495f7619c10e821feb66a9631ad0191c3",
+          "type": "Unknown",
+          "displayName": "Python 3.8.0 64-bit"
+        }
+      },
+      "expiry": 1596063080207
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "eac0471206fec8e0c2b021ae1be130351d8b761fc45854675dfb732719e562accf0b4c482a9e9ccb14305a3a4d525a5e3a2696c558a01754c16937d1704465d4",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "eac0471206fec8e0c2b021ae1be130351d8b761fc45854675dfb732719e562accf0b4c482a9e9ccb14305a3a4d525a5e3a2696c558a01754c16937d1704465d4",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1596063080210
+    },
+    "/usr/local/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "bdae7a42d1b2a8e2030c1750323a8b5490febe3d46c440ef3bc53250e0b0c000f95a3efa6f37d2e28eeba1ae78bbd0502a8107356ed4913eefa26fa60503aea1",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.17-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 17,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.17-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "bdae7a42d1b2a8e2030c1750323a8b5490febe3d46c440ef3bc53250e0b0c000f95a3efa6f37d2e28eeba1ae78bbd0502a8107356ed4913eefa26fa60503aea1",
+          "type": "Unknown",
+          "displayName": "Python 2.7.17 64-bit"
+        }
+      },
+      "expiry": 1589999192188
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f873832d7d52851939db50b6734bbd4080b28116513e3608c1ac4d18b0b23cee77b83582864f9a318f4517b2951591673be8e0c93276148435c0c054d820a3b5",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.3-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.3-final"
+          },
+          "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+          "fileHash": "f873832d7d52851939db50b6734bbd4080b28116513e3608c1ac4d18b0b23cee77b83582864f9a318f4517b2951591673be8e0c93276148435c0c054d820a3b5",
+          "type": "Unknown",
+          "displayName": "Python 3.7.3 64-bit"
+        }
+      },
+      "expiry": 1596063080214
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6bce13e10b428b1ce89b804ffbc8512abbbaac0f840ba1725626192374c22f948c8de5d856a4c66447b6b27c4b7d0055832a8182f302b04b2a31a7a3f260fd8c",
+        "info": {
+          "architecture": 3,
+          "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "6bce13e10b428b1ce89b804ffbc8512abbbaac0f840ba1725626192374c22f948c8de5d856a4c66447b6b27c4b7d0055832a8182f302b04b2a31a7a3f260fd8c",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1596056379087
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.8/bin/python3.8",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.3-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.3-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+      "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa",
+      "type": "Unknown",
+      "displayName": "Python 3.8.3 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb"
+      },
+      "expiry": 1596056378894
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "0b0d86d2ef7274443531747dad5439ac6b73b3d99298cd2739cacf7c3b3de655e51104a374e33aa76bafb46e8b3f07a8079a3087086de109e4a77fc5de72638f"
+      },
+      "expiry": 1596056378842
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "4a7b50eac87513da1908f4cc5e94a32cd081b8b00b124ce7a7125d95b8d146072618939de1b910c4ece19f1e5cb5fb4d9e61020c4a6c1b08dad396aa2df9e7b8"
+      },
+      "expiry": 1596056378840
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.9",
+        "fileHash": "6394ed836f2571b2d5a65f10ba1256b083d8b4eaf1952197796ad42da5abb904075b6daa873083ae212160e4787f9331f24586bb72fb2b3c4143b8a88ecac9ed"
+      },
+      "expiry": 1596056378847
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python3.6.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.9",
+        "fileHash": "167021cc1f841533a66b93b25e2a67fc485a575aa55f172bac1e6b1c80d76cfb96aeb0f1629a1cde7e2672d7b6ee700cabd0f047f87cea39e1a8b3987194d90e"
+      },
+      "expiry": 1596056378846
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.9",
+        "fileHash": "e10f0887fee0896fe45d1de8029ba751b5e3698749c316dbf7a150261ba8892d1163ad625ca5b85e3478e64880125c4600cc40a76c0a8875f3a41906a59edb30"
+      },
+      "expiry": 1596056378849
+    },
+    "/Users/loganmorrison/.pyenv/shims/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+        "fileHash": "49d75449c3e7d59880ee5dd4f88cd269bee008653979e0f231787e14b2f9ea80e951ef2e4e1080c0181a0ab1743127fb83e4b93a216bc4a9a80520faf14d7310"
+      },
+      "expiry": 1596056378822
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)",
+        "hash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb-c898e1e0a7d544e7facc80a5d589b005"
+      },
+      "expiry": 1596063080149
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.6.9 64-bit ('3.6.9': pyenv)",
+        "hash": "e10f0887fee0896fe45d1de8029ba751b5e3698749c316dbf7a150261ba8892d1163ad625ca5b85e3478e64880125c4600cc40a76c0a8875f3a41906a59edb30-76b0638226387687f2db740b77566e7a"
+      },
+      "expiry": 1596056379004
+    },
+    "/Users/loganmorrison/.pyenv/shims/python3.8.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.0 64-bit ('.pyenv': pyenv)",
+        "hash": "49d75449c3e7d59880ee5dd4f88cd269bee008653979e0f231787e14b2f9ea80e951ef2e4e1080c0181a0ab1743127fb83e4b93a216bc4a9a80520faf14d7310-ba356414382c000b568e860563ee4fa4"
+      },
+      "expiry": 1594872930670
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.0-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.0-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+          "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+          "envName": "3.8.0",
+          "type": "Pyenv",
+          "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+        }
+      },
+      "expiry": 1596063080198
+    },
+    "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e10f0887fee0896fe45d1de8029ba751b5e3698749c316dbf7a150261ba8892d1163ad625ca5b85e3478e64880125c4600cc40a76c0a8875f3a41906a59edb30",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/versions/3.6.9/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.6.9-final",
+            "major": 3,
+            "minor": 6,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.6.9-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.9",
+          "fileHash": "e10f0887fee0896fe45d1de8029ba751b5e3698749c316dbf7a150261ba8892d1163ad625ca5b85e3478e64880125c4600cc40a76c0a8875f3a41906a59edb30",
+          "envName": "3.6.9",
+          "type": "Pyenv",
+          "displayName": "Python 3.6.9 64-bit ('3.6.9': pyenv)"
+        }
+      },
+      "expiry": 1596056379083
+    },
+    "/Users/loganmorrison/.pyenv/shims/python3.8.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "49d75449c3e7d59880ee5dd4f88cd269bee008653979e0f231787e14b2f9ea80e951ef2e4e1080c0181a0ab1743127fb83e4b93a216bc4a9a80520faf14d7310"
+      },
+      "expiry": 1594872930605
+    },
+    "/Users/loganmorrison/.pyenv/shims/python3.6.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.6.2 64-bit",
+        "hash": "70bd1c6ede207447178bdf1d0c38f3b8968181040d442b762c1e76d6ca35bab0a4440b496c4e44000e066ee59d4c5bd105850c80e3dd2b93a7376cca565f41c4-98858e76ed7f9d905b784a78605b908c"
+      },
+      "expiry": 1594091703130
+    },
+    "/Users/loganmorrison/.pyenv/shims/python3.6.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "70bd1c6ede207447178bdf1d0c38f3b8968181040d442b762c1e76d6ca35bab0a4440b496c4e44000e066ee59d4c5bd105850c80e3dd2b93a7376cca565f41c4",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/.pyenv/shims/python3.6",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.6.2-final",
+            "major": 3,
+            "minor": 6,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.6.2-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.6.2",
+          "fileHash": "70bd1c6ede207447178bdf1d0c38f3b8968181040d442b762c1e76d6ca35bab0a4440b496c4e44000e066ee59d4c5bd105850c80e3dd2b93a7376cca565f41c4",
+          "type": "Unknown",
+          "displayName": "Python 3.6.2 64-bit"
+        }
+      },
+      "expiry": 1594091703193
+    },
+    "/usr/local/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "e8b4cb1c85a54fa4183c5872b8e3fc7a17719ba0cc28db7627166a8adf1216feb8f3e467792681249a900116f0351a8d7e37339a058da0866fab9ec8cb99e67e"
+      },
+      "expiry": 1596056378629
+    },
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "813837c3ae0a7045d36ba04f2dab4842c199ef65e3ffeba57df1e621783d81f52e89f0f661a498b572446130d0365b8d0877b5f8e0a860cae4da7bb17054fc53"
+      },
+      "expiry": 1596056378631
+    },
+    "/usr/local/opt/python@3.8/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/opt/python@3.8/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa"
+      },
+      "expiry": 1596056378896
+    },
+    "/usr/local/opt/python@3.8/bin/python3.8.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.3 64-bit",
+        "hash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa-7e62705e2de844620fb67069fbfe185c"
+      },
+      "expiry": 1596056379016
+    },
+    "/usr/local/opt/python@3.8/bin/python3.8.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/opt/python@3.8/bin/python3.8",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.3-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.3-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+          "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa",
+          "type": "Unknown",
+          "displayName": "Python 3.8.3 64-bit"
+        }
+      },
+      "expiry": 1596056379091
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.3 64-bit",
+        "hash": "813837c3ae0a7045d36ba04f2dab4842c199ef65e3ffeba57df1e621783d81f52e89f0f661a498b572446130d0365b8d0877b5f8e0a860cae4da7bb17054fc53-72c141a5317aa11eb2360cc486991230"
+      },
+      "expiry": 1596063080150
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "813837c3ae0a7045d36ba04f2dab4842c199ef65e3ffeba57df1e621783d81f52e89f0f661a498b572446130d0365b8d0877b5f8e0a860cae4da7bb17054fc53",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.3-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.3-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+          "fileHash": "813837c3ae0a7045d36ba04f2dab4842c199ef65e3ffeba57df1e621783d81f52e89f0f661a498b572446130d0365b8d0877b5f8e0a860cae4da7bb17054fc53",
+          "type": "Unknown",
+          "displayName": "Python 3.8.3 64-bit"
+        }
+      },
+      "expiry": 1596063080203
+    },
+    "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv",
+        "fileHash": "ce1db0bd095ffe561b2c53f4d59cfc800650f73b68fa2651986304933b5b758b170f5b90116ab20f4473ad767ed94812286fc1fe25e947b008c35f4b4f0aa435"
+      },
+      "expiry": 1595108282287
+    },
+    "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv",
+        "fileHash": "fb69940311ba6b1dd7bb0a1fd838bd91465b69857f5e5b31e9d818f89fdae52f059d5fef5976680be82f889e9e1e4cb86827ce87139f7f25997ba0e5d869bf4d"
+      },
+      "expiry": 1595108282289
+    },
+    "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv",
+        "fileHash": "798934e2932240b2bc68840b6e7d10e29f96f7889913e3f6e7c1ce7ecb97c710c0af0d02fac0c4cbd3c6a3f1c9b3d994b4801144073f92aee5e7a0bd47fefb46"
+      },
+      "expiry": 1595108282291
+    },
+    "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.0 64-bit ('venv': venv)",
+        "hash": "ce1db0bd095ffe561b2c53f4d59cfc800650f73b68fa2651986304933b5b758b170f5b90116ab20f4473ad767ed94812286fc1fe25e947b008c35f4b4f0aa435-3ef283d1c805761dce2ce4b24fb1a751"
+      },
+      "expiry": 1595108282330
+    },
+    "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ce1db0bd095ffe561b2c53f4d59cfc800650f73b68fa2651986304933b5b758b170f5b90116ab20f4473ad767ed94812286fc1fe25e947b008c35f4b4f0aa435",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.0-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.0-final"
+          },
+          "sysPrefix": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv",
+          "fileHash": "ce1db0bd095ffe561b2c53f4d59cfc800650f73b68fa2651986304933b5b758b170f5b90116ab20f4473ad767ed94812286fc1fe25e947b008c35f4b4f0aa435",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.8.0 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1595108282339
+    }
+  },
+  "coc-python|/Users/loganmorrison/Documents/git_hub/Hazma": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:022143a8e23194029c67a9f5291d13bb": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:022143a8e23194029c67a9f5291d13bb": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/git_hub/Hazma": {
+      "architecture": 3,
+      "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+      "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/ta_classes/phys_115/psets/pset5": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:0da5b1edf819a3fe8dea8e7a09f50443": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:0da5b1edf819a3fe8dea8e7a09f50443": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/ta_classes/phys_115/psets/pset5": {
+      "architecture": 3,
+      "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+      "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/ta_classes/phys_115/Phys115-HPC": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:aa763d46c063901c04d40126271645ad": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:aa763d46c063901c04d40126271645ad": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/ta_classes/phys_115/Phys115-HPC": {
+      "architecture": 3,
+      "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+      "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/ta_classes/phys_115/psets/pset6": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f3cc0986dc36ab8fe7099d66c3cf771c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f3cc0986dc36ab8fe7099d66c3cf771c": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/ta_classes/phys_115/psets/pset6": {
+      "architecture": 3,
+      "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+      "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/ta_classes/phys_115/cfd": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:bd88069535efbf9ea205b102a415ed9d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:bd88069535efbf9ea205b102a415ed9d": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/ta_classes/phys_115/cfd": {
+      "architecture": 3,
+      "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+      "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Downloads/blackhawk_v1.2": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:9572f513f4e96bc433a92ad67d42895a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:9572f513f4e96bc433a92ad67d42895a": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Downloads/blackhawk_v1.2": {
+      "architecture": 3,
+      "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+      "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/coding/rust/projects/darksun": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:463b3f9eb2ec59090ae7607a32769480": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:463b3f9eb2ec59090ae7607a32769480": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/coding/rust/projects/darksun": {
+      "architecture": 3,
+      "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+      "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:fa388511ebbe98f9c17e47aeed8a7abf": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fa388511ebbe98f9c17e47aeed8a7abf": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/coding/rust/projects/word-count": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:be84d06cbe4a1497fa42e95758d53b1c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:be84d06cbe4a1497fa42e95758d53b1c": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/coding/rust/projects/word-count": {
+      "architecture": 3,
+      "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+      "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/coding/rust/projects/lanre": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:fa388511ebbe98f9c17e47aeed8a7abf": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fa388511ebbe98f9c17e47aeed8a7abf": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/coding/rust/projects/lanre": {
+      "architecture": 3,
+      "path": "/Users/loganmorrison/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/loganmorrison/.pyenv/versions/3.8.0",
+      "fileHash": "aa51d7071d5afdf0e463105ed11eaa914db18ba6828aa908e467b197b23e324bd033bc1e8b082650543086fccf074f8eea5c0ea59f742b343efde96b147c59bb",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/git_hub/stiff": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:98823313159d179d850d2576641140bf": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:98823313159d179d850d2576641140bf": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/git_hub/stiff": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.8/bin/python3.8",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.3-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.3-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+      "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa",
+      "type": "Unknown",
+      "displayName": "Python 3.8.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/research/SUN_DM/cpp": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:155826306ff93bf1c26169683f07b413": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:155826306ff93bf1c26169683f07b413": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv",
+        "fileHash": "ce1db0bd095ffe561b2c53f4d59cfc800650f73b68fa2651986304933b5b758b170f5b90116ab20f4473ad767ed94812286fc1fe25e947b008c35f4b4f0aa435",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv",
+        "fileHash": "fb69940311ba6b1dd7bb0a1fd838bd91465b69857f5e5b31e9d818f89fdae52f059d5fef5976680be82f889e9e1e4cb86827ce87139f7f25997ba0e5d869bf4d",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/loganmorrison/Documents/coding/rust/projects/darksun/venv",
+        "fileHash": "798934e2932240b2bc68840b6e7d10e29f96f7889913e3f6e7c1ce7ecb97c710c0af0d02fac0c4cbd3c6a3f1c9b3d994b4801144073f92aee5e7a0bd47fefb46",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService:62833ac344b0014960e4a8f28c527b16": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:62833ac344b0014960e4a8f28c527b16": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/research/SUN_DM/analysis": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/loganmorrison/Documents/git_hub/YAC": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:33451df507b4789e2d81650447f2ce6f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:33451df507b4789e2d81650447f2ce6f": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/loganmorrison/Documents/git_hub/YAC": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.8/bin/python3.8",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.3-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.3-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.3_2/Frameworks/Python.framework/Versions/3.8",
+      "fileHash": "125068ec7916feab9cea15cb6a1a3ef842aee5459296c99169765ba8105a89fe476843478dfbacc42b32b57777af662df5791f68f9531f1f041be9b29a7509fa",
+      "type": "Unknown",
+      "displayName": "Python 3.8.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

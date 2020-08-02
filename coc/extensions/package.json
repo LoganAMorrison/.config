@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "coc-explorer": ">=0.7.19",
+    "coc-git": ">=1.8.1",
+    "coc-json": ">=1.2.6",
+    "coc-lsp-wl": ">=1.0.0",
+    "coc-marketplace": ">=1.7.0",
+    "coc-neosnippet": ">=1.2.2",
+    "coc-prettier": ">=1.1.17",
+    "coc-python": ">=1.2.12",
+    "coc-rls": ">=1.1.6",
+    "coc-snippets": ">=2.1.28",
+    "coc-syntax": ">=1.2.4",
+    "coc-ultisnips": ">=1.2.3",
+    "coc-vimtex": ">=1.0.4",
+    "coc-yaml": ">=1.0.4",
+    "coc-yank": ">=1.1.4"
+  }
+}
